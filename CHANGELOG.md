@@ -19,4 +19,3 @@
 - `shell=True` komut çalıştırma ve uzaktan komut döngüsü.
 - Anti-VM, anti-debug ve analizden kaçınma davranışları.
 - Sistem/host bilgisini uzak tarafa gönderme.
-

@@ -1,4 +1,3 @@
 Harmless offline training sample.
 Documentation: https://example.invalid/lab
 Contact: analyst@example.invalid
-

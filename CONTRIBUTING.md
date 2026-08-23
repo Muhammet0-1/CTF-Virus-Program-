@@ -21,4 +21,3 @@ QT_QPA_PLATFORM=offscreen make verify PYTHON=.venv/bin/python
 - Gerçek token, parola, kişisel veri veya aktif hedef
 
 Yeni kurallar inert sentetik olaylarla, yanlış pozitif açıklamasıyla ve regresyon testiyle gelmelidir.
-

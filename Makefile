@@ -44,4 +44,3 @@ verify: format-check lint typecheck test compile clean-build build package-check
 clean: clean-build
 	rm -rf .pytest_cache .mypy_cache .ruff_cache
 	find . -type d -name __pycache__ -prune -exec rm -rf {} +
-

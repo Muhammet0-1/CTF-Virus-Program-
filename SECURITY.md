@@ -15,4 +15,3 @@ küçük yerel örnekle yeniden üretin.
 Girdi dosyası ve JSONL iz güvenilmez kabul edilir. Proje küçük eğitim örneklerine yöneliktir; 8 MiB
 dosya ve 1000 olay sınırları güvenlik sözleşmesidir. Araç malware çalıştırmaz ve gerçek sandbox,
 antivirüs ya da EDR değildir. “Bulgu yok” sonucu güvenlik garantisi sayılmaz.
-

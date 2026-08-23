@@ -70,4 +70,3 @@ warn_unused_configs = true
 [tool.pytest.ini_options]
 addopts = "-ra --strict-config --strict-markers"
 testpaths = ["tests"]
-
