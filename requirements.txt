@@ -1,0 +1,1 @@
+# Çekirdek CLI yalnızca Python standart kütüphanesini kullanır.

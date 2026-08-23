@@ -1,0 +1,10 @@
+include LICENSE
+include README.md
+include SECURITY.md
+include CHANGELOG.md
+include CONTRIBUTING.md
+include Makefile
+include agent.py
+include requirements.txt
+recursive-include tests *.py *.jsonl *.txt
+recursive-include tools *.py
